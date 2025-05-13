@@ -19,11 +19,11 @@ A production-ready NLP API powered by BERT, using Flask for inference and Expres
 
 ## ⚙️ Skills & Tech Stack
 
-- **Languages**: Python, SQL, JavaScript  
+- **Languages**: Python, SQL, HTML & CSS
 - **AI/ML Tools**: LangChain, Hugging Face, OpenAI API, FAISS, PyTorch, Scikit-learn  
 - **Frameworks**: Flask, Streamlit, Node.js, FastAPI  
 - **Cloud & DevOps**: Microsoft Azure, AWS, Docker, CI/CD  
-- **Other**: Power BI, Git, REST APIs, LLM fine-tuning, prompt optimization
+- **Other**: Power BI, Tableau, Git, REST APIs, LLM fine-tuning, prompt optimization
 
 ---
 
