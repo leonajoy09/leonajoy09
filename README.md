@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Leona Joy
 
-<!--
-**leonajoy09/leonajoy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer passionate about building intuitive, human-centered experiences using Large Language Models (LLMs), prompt engineering, and real-time NLP systems. My work blends deep technical skills with creativity, focusing on scalable, meaningful AI solutions that support sustainability, community, and accessibility.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core Projects
+
+### 🤖 [AI-Powered Chatbot with GPT + FAISS](https://github.com/leonajoy09/chatbot-gpt-faiss)
+A contextual chatbot that combines the GPT model with FAISS for document-based question answering. Features vector search, real-time response generation, and a Flask web interface.
+
+### 🌱 [Smart Crop Recommender with ML & Anomaly Detection](https://github.com/leonajoy09/smart-crop-recommender)
+An AI assistant for agriculture that uses environmental sensor data and ML models (Random Forest, Isolation Forest) to suggest optimal crops and detect anomalies. Deployed with Streamlit.
+
+### 📚 [BERT Question Answering API](https://github.com/leonajoy09/bert-qa-api)
+A production-ready NLP API powered by BERT, using Flask for inference and Express.js for middleware. Supports real-time Q&A over custom context.
+
+---
+
+## ⚙️ Skills & Tech Stack
+
+- **Languages**: Python, SQL, JavaScript  
+- **AI/ML Tools**: LangChain, Hugging Face, OpenAI API, FAISS, PyTorch, Scikit-learn  
+- **Frameworks**: Flask, Streamlit, Node.js, FastAPI  
+- **Cloud & DevOps**: Microsoft Azure, AWS, Docker, CI/CD  
+- **Other**: Power BI, Git, REST APIs, LLM fine-tuning, prompt optimization
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://linkedin.com/in/leona-joy-080580179/)
+- 📧 Email: leonajoy09@gmail.com  
+- 💻 [GitHub](https://github.com/leonajoy09)
+
+Thanks for stopping by!
