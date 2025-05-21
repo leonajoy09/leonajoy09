@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Leona Joy
 
-I'm an AI Engineer passionate about building intuitive, human-centered experiences using Large Language Models (LLMs), prompt engineering, and real-time NLP systems. My work blends deep technical skills with creativity, focusing on scalable, meaningful AI solutions that support sustainability, community, and accessibility.
+Recent graduate passionate about building intuitive, human-centered experiences using Large Language Models (LLMs), prompt engineering, and real-time NLP systems. My work blends deep technical skills with creativity, focusing on scalable, meaningful AI solutions that support sustainability, community, and accessibility.
 
 ---
 
